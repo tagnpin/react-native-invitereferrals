@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<integer name="ir_MobieNoDigitLimit">10</integer>
+
+<!--actionbar-->
+<integer name="ir_titleFontSize">17</integer>
+<integer name="ir_closeBtnFontSize">17</integer>
+<!--<integer name="ir_closeBtnAlign">1</integer> -->           <!--  0 == Left  OR 1 == Right -->
+<integer name="ir_closeBtnWidth">60</integer>
+<integer name="ir_closeBtnHeight">60</integer>
+<integer name="ir_showActionbarOnScreen">1</integer>    <!-- 0 == NO   1== YES -->
+
+    <!--<integer name="ir_headerTextFontSize">20</integer>
+    <integer name="ir_actionbarTitleFontSize">22</integer>
+    <integer name="ir_actionbarButtonSize">70</integer>-->
+
+
+</resources>

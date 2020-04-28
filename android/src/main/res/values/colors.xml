@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ir_share_screen_background_color">#ffffff</color>
+    <color name="ir_actionbarDefaultBg">#3F51B5</color>
+    <color name="ir_actionbarDefaultTitleColor">#4cae4c</color>
+    <color name="ir_statusBarColor">#4cae4c</color>   <!--supports api 21 and above-->
+
+
+
+    <!--<color name="ir_headerBgColor">#007fb7</color>-->
+    <!--<color name="ir_headerTextColor">#ffffff</color>-->
+    <!--<color name="ir_actionbarBgColor">#3F51B5</color>-->
+    <!--<color name="ir_actionbarButtonColor">#ffffff</color>-->
+    <!--<color name="ir_actionbarTitleTextColor">#ffffff</color>-->
+</resources>

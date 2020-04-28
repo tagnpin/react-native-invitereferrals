@@ -1,0 +1,28 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.invitereferrals.invitereferrals">
+
+    <permission android:name="${applicationId}.invitereferrals.custom.PERMISSION" />
+    <uses-permission android:name="${applicationId}.invitereferrals.custom.PERMISSION" />
+
+    <application>
+        <activity android:name=".CampaignLogin"></activity>
+        <activity android:name=".ShareScreen"></activity>
+
+        <receiver
+            android:name=".AppUpdateReceiver"
+            android:permission="${applicationId}.invitereferrals.custom.PERMISSION">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name="com.invitereferrals.invitereferrals.InviteReferrerBroadcastReceiver"
+            android:permission="${applicationId}.invitereferrals.custom.PERMISSION" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,24 @@
+{
+  "name": "react-native-invitereferrals",
+  "version": "4.0.5",
+  "description": "InviteReferrals is a powerful and yet simple to integrate referral software",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "react-native",
+      "ios",
+      "android",
+      "referrals",
+      "push",
+      "apns",
+      "referral"
+  ],
+  "author": "Siddharth Gupta",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/tagnpin/react-native-invitereferrals.git"
+    }
+}

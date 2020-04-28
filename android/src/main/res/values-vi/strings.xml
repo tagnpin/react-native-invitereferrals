@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">invitereferrals</string>
+    <!--<string name="more_options">Nhiều tùy chọn để chia sẻ</string>-->
+    <string name="ir_stats">Thống kê giới thiệu của tôi</string>
+    <string name="ir_tnc">Các điều khoản và điều kiện</string>
+    <string name="ir_how_it_works">Làm thế nào nó hoạt động</string>
+
+    <string name="ir_login_userNameHint">Tên</string>
+    <string name="ir_login_userEmailHint">E-mail</string>
+    <string name="ir_login_userMobileHint">Số di động Số %d</string>
+    <string name="ir_login_buttonText">Ghi danh</string>
+    <string name="ir_valid_email">Nhập ID Email hợp lệ</string>
+
+    <string name="ir_err_msg">Đã xảy ra lỗi</string>
+    <string name="ir_loading_message">Xin chờ. Đang tải trang...</string>
+
+    <string name="ir_actionbarLoginScreenTitle">Màn hình đăng nhập</string>
+    <string name="ir_actionbarShareScreenTitle">Màn hình chia sẻ</string>
+    <string name="ir_actionbarBackground"></string>
+    <string name="ir_actionbarTitleColor"></string>
+    <string name="ir_actionbarButtonTitle"></string>
+    <string name="ir_btnTintColor"></string>
+</resources>

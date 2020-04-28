@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">invitereferrals</string>
+    <!--<string name="more_options">More options to share</string>-->
+    <string name="ir_stats">My Referral Statistics</string>
+    <string name="ir_tnc">Terms And Conditions</string>
+    <string name="ir_how_it_works">How It Works</string>
+
+    <string name= "ir_screenBackgroundImg"></string>
+    <string name= "ir_fontStyle"></string>
+
+    <string name="ir_login_userNameHint">Enter Name</string>
+    <string name="ir_login_userEmailHint">Enter Email Address</string>
+    <string name="ir_login_userMobileHint">%d Digit Mobile Number</string>
+    <string name="ir_login_buttonText">Register</string>
+    <string name="ir_loading_message">Please wait. Page is loading...</string>
+    <string name="ir_contactSync_loading_message">Please wait...</string>
+    <string name="ir_valid_email">Enter Valid Email ID</string>
+    <string name="ir_Invalid_mobie">Enter Mobile Number</string>
+    <string name="ir_err_msg">Something went wrong</string>
+
+    <string name="ir_actionbarLoginScreenTitle">Login Screen</string>
+    <string name="ir_actionbarShareScreenTitle">Sharing Screen</string>
+    <string name="ir_actionbarTitleStyle">bold</string>        <!--(bold or italic or normal or bold-italic)-->
+    
+	<string name="ir_actionbarBackground">#4cae4c</string>  <!--  Action Bar Background color using "Hex Color"  -->
+    <!--
+    Note:
+    ir_actionbarBackground :-  Name of the actionbar background. Values can be either image_url, hex color code, rgba color or drawable image.
+    Example:
+                image_url:
+                         <string name="ir_actionbarBackground">http://images.all-free-download.com/images/graphiclarge/clouds_in_sky_background_192377.jpg</string>
+                Hex Color Code :
+                           <string name="ir_actionbarBackground">#a25016</string>
+                rgba Color :
+                           <string name="ir_actionbarBackground">rgba(165,188,210,1)</string>
+                Drawable Image Name :
+                           <string name="ir_actionbarBackground">ir_actionbar_bg</string>
+    -->
+
+    <string name="ir_actionbarTitleColor">#ffffff</string>       <!--  Action Bar Title color using "Hex Color"  -->
+     <!--
+     Note:
+       ir_actionbarTitleColor: - Color for the actionbar title. Values can be either hex color code or rgba color.
+       Example:
+                  Hex Color Code :
+                           <string name="ir_actionbarTitleColor">#ffffff</string>
+                  rgba Color :
+                           <string name="ir_actionbarTitleColor">rgba(255,255,255,1)</string>
+     -->
+
+
+    <string name="ir_actionbarButtonTitle">cross_nv_new</string>  <!-- Text of Action Bar button  -->
+    <!--
+    Note:
+    ir_actionbarButtonTitle :-  Title for the actionbar button. Values can be either Text (max length 15 charectars), image_url or drawable image.
+    Example:
+             Text :
+                    <string name="ir_actionbarButtonTitle">Close</string>
+             image_url:
+                    <string name="ir_actionbarButtonTitle">https://s3.amazonaws.com/notifyvisitors/static/cross.png</string>
+             Drawable Image Name :
+                     <string name="ir_actionbarButtonTitle">closenv</string>
+    -->
+
+
+    <string name="ir_btnTintColor">#ffffff</string>            <!--  Action Bar Close button Tint Color using "Hex Color"  -->
+    <!--
+    Note:
+       ir_btnTintColor :- Tint color for the actionbar button. Values can be either hex color code or rgba color.
+       Example:
+
+                  Hex Color Code :
+                          <string name="ir_btnTintColor">#ffffff</string>
+                  rgba Color :
+                           <string name="ir_actionbarTitleColor">rgba(86,193,62,1)</string>
+    -->
+</resources>
